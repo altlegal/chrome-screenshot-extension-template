@@ -1,0 +1,2 @@
+## Design Specifications
+You will find a file called DESIGNS.md in the root. It provides an overview of the design. Within that folder there is a `src` which holds the Sketch file used to create the designs, a `comps` folder containing the composed UI images used in DESIGNS.md, and an `assets` folder holding any image assets you'll need. Please copy assets into your project's directory structure rather than link to them directly in the design folder.
