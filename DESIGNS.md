@@ -11,9 +11,11 @@ Next, the user selects annotation values.
 ![Step 2 of our wizard](designs/comps/Step%202.png?raw=true)
 
 The user's choices will be included in the final image.
+
 ![Output example including annotations](designs/comps/Sample%20Output%20Comp.png?raw=true)
 
 Lastly, the user chooses a filename and is shown the file size. They may choose to optimize the file to reduce it below the USPTO threshold.
+
 ![Step 3 of our wizard](designs/comps/Step%203.png?raw=true)
 
 Finally, clicking the download button should begin the browser download dialog with the user's chosen filename as the suggested name.
